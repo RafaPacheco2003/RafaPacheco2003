@@ -1,8 +1,8 @@
 # 👋 Hi there, I'm Rodrigo Chi Pacheco
 
-### Software Engineer | Expert in JavaScript, Node.js, and API Development | 2+ Years of Experience | Focused on RESTful APIs, Clean Architecture, and Performance Optimization
+### Software Engineer | Expert in SpringBoot, Node.js, and API Development | 2+ Years of Experience | Focused on RESTful APIs, Hexagonal Architecture, and Performance Optimization
 
-I’m a backend-focused software engineer with over 2 years of experience developing scalable systems and APIs using **Node.js**, **FastAPI**, and **Spring Boot**. My main focus is building clean, maintainable code with efficient performance.
+I’m a backend-focused software engineer with over 2 years of experience developing scalable systems and APIs using **SpringBoot**, **Node.js**, **FastAPI**. My main focus is building clean, maintainable code with efficient performance.
 
 I also have experience in frontend development using **Angular**, creating responsive and user-friendly interfaces that enhance the overall user experience.
 
