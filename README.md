@@ -12,50 +12,58 @@ I also have experience in frontend development using **Angular**, creating respo
 
 <table>
   <tr>
-    <td><strong>Languages 💻</strong></td>
-    <td><strong>Front-End 🎨</strong></td>
-    <td><strong>Back-End ⚙️</strong></td>
+    <th>Languages 💻</th>
+    <th>Frontend 🎨</th>
+    <th>Backend ⚙️</th>
   </tr>
   <tr>
     <td valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="30" /> JavaScript<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="30" /> TypeScript<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg" width="30" /> Java<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="30" /> Python
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="30" style="vertical-align:middle;" /> JavaScript<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="30" style="vertical-align:middle;" /> TypeScript<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg" width="30" style="vertical-align:middle;" /> Java<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="30" style="vertical-align:middle;" /> Python
     </td>
     <td valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/angular.svg" width="30" /> Angular<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="30" /> HTML5<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="30" /> CSS3<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bootstrap.svg" width="30" /> Bootstrap<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="30" /> Tailwind CSS
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/angular.svg" width="30" style="vertical-align:middle;" /> Angular<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="30" style="vertical-align:middle;" /> HTML5<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="30" style="vertical-align:middle;" /> CSS3<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bootstrap.svg" width="30" style="vertical-align:middle;" /> Bootstrap<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="30" style="vertical-align:middle;" /> Tailwind CSS
     </td>
     <td valign="top">
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="30" /> Node.js<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" width="30" /> Express<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spring.svg" width="30" /> Spring Boot<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="30" /> Docker<br/>
-      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" width="30" /> FastAPI
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="30" style="vertical-align:middle;" /> Node.js<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" width="30" style="vertical-align:middle;" /> Express<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spring.svg" width="30" style="vertical-align:middle;" /> Spring Boot<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="30" style="vertical-align:middle;" /> Docker<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" width="30" style="vertical-align:middle;" /> FastAPI
     </td>
   </tr>
 </table>
 
 ---
 
-## 🛠️ Testing and Tools
+## 🧪 Testing & Tools
 
 <table>
   <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="30" /> Postman</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbeaver.svg" width="30" /> DBeaver</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/junit5.svg" width="30" /> JUnit</td>
-    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" width="30" /> Git</td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="30" style="vertical-align:middle;" /><br/>Postman
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbeaver.svg" width="30" style="vertical-align:middle;" /><br/>DBeaver
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/junit5.svg" width="30" style="vertical-align:middle;" /><br/>JUnit
+    </td>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" width="30" style="vertical-align:middle;" /><br/>Git
+    </td>
   </tr>
 </table>
 
 ---
 
-## 🔗 Connect with me
+## 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaPacheco2003)  
