@@ -12,30 +12,30 @@ I also have experience in frontend development using **Angular**, creating respo
 
 <table>
   <tr>
-    <td align="center"><strong>Languages 💻</strong></td>
-    <td align="center"><strong>Front-End 🎨</strong></td>
-    <td align="center"><strong>Back-End ⚙️</strong></td>
+    <td><strong>Languages 💻</strong></td>
+    <td><strong>Front-End 🎨</strong></td>
+    <td><strong>Back-End ⚙️</strong></td>
   </tr>
   <tr>
-    <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/javascript.svg" width="30" /> JavaScript<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/typescript.svg" width="30" /> TypeScript<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/java.svg" width="30" /> Java<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/python.svg" width="30" /> Python
     </td>
-    <td valign="top" align="center">
-      <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/angular.svg" width="30" /> Angular<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/html5.svg" width="30" /> HTML5<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/css3.svg" width="30" /> CSS3<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/bootstrap.svg" width="30" /> Bootstrap<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/tailwindcss.svg" width="30" /> Tailwind CSS
     </td>
-    <td valign="top" align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-      <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="FastAPI" width="40" height="40"/>
+    <td valign="top">
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/nodedotjs.svg" width="30" /> Node.js<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/express.svg" width="30" /> Express<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/spring.svg" width="30" /> Spring Boot<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/docker.svg" width="30" /> Docker<br/>
+      <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/fastapi.svg" width="30" /> FastAPI
     </td>
   </tr>
 </table>
@@ -46,18 +46,10 @@ I also have experience in frontend development using **Angular**, creating respo
 
 <table>
   <tr>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/><br/>Postman
-    </td>
-    <td align="center">
-      <img src="https://dbeaver.io/wp-content/uploads/2021/09/dbeaver-2.png" alt="DBeaver" width="40" height="40"/><br/>DBeaver
-    </td>
-    <td align="center">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/JUnit_logo.svg" alt="JUnit" width="40" height="40"/><br/>JUnit
-    </td>
-    <td align="center">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/><br/>Git
-    </td>
+    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/postman.svg" width="30" /> Postman</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/dbeaver.svg" width="30" /> DBeaver</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/junit5.svg" width="30" /> JUnit</td>
+    <td><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/git.svg" width="30" /> Git</td>
   </tr>
 </table>
 
@@ -65,6 +57,6 @@ I also have experience in frontend development using **Angular**, creating respo
 
 ## 🔗 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/tuusuario/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/tuusuario)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:tuemail@correo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RafaPacheco2003)  
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigorafaelchipacheco@correo.com)
