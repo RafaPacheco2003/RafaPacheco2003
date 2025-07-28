@@ -1,14 +1,14 @@
 # 👋 ¡Hola! Soy Rodrigo Chi Pacheco
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;API+Specialist;2%2B+Years+Experience" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Developer;API+Specialist;3%2B+Years+Experience" alt="Typing SVG" />
 </div>
 
 ---
 
 ## 🚀 Sobre Mí
 
-Soy un **Ingeniero de Software** especializado en desarrollo backend con más de **2 años de experiencia** creando sistemas escalables y APIs robustas. Mi enfoque principal está en **SpringBoot**, **Node.js**, y **FastAPI**, construyendo código limpio y mantenible con arquitectura hexagonal y optimización de rendimiento.
+Soy un **Ingeniero de Software** especializado en desarrollo backend con más de **3 años de experiencia** creando sistemas escalables y APIs robustas. Mi enfoque principal está en **SpringBoot**, **Node.js**, y **FastAPI**, construyendo código limpio y mantenible con arquitectura hexagonal y optimización de rendimiento.
 
 También tengo experiencia en desarrollo frontend con **Angular**, creando interfaces responsivas que mejoran la experiencia del usuario.
 
@@ -16,87 +16,68 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 
 ## 💻 Stack Tecnológico
 
-<table align="center">
-  <tr>
-    <th>🔤 Lenguajes</th>
-    <td align="center">
+<table align="center" style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;"><strong>🔤 Lenguajes</strong></td>
+    <td style="border: none;" align="center">
       <img src="https://skillicons.dev/icons?i=java" width="40"/> Java
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=typescript" width="40"/> TypeScript
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=python" width="40"/> Python
     </td>
   </tr>
-  <tr>
-    <th>🎨 Frontend</th>
-    <td align="center">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;"><strong>🎨 Frontend</strong></td>
+    <td style="border: none;" align="center">
       <img src="https://skillicons.dev/icons?i=angular" width="40"/> Angular
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML5
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=css" width="40"/> CSS3
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> Bootstrap
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> Tailwind CSS
     </td>
   </tr>
-  <tr>
-    <th>⚙️ Backend</th>
-    <td align="center">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;"><strong>⚙️ Backend</strong></td>
+    <td style="border: none;" align="center">
       <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> Node.js
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=express" width="40"/> Express
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=spring" width="40"/> Spring Boot
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=docker" width="40"/> Docker
     </td>
   </tr>
-  <tr>
-    <th>🗃️ Bases de Datos</th>
-    <td align="center">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;"><strong>🗃️ Bases de Datos</strong></td>
+    <td style="border: none;" align="center">
       <img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> PostgreSQL
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB
     </td>
-    <td></td>
-    <td></td>
   </tr>
-  <tr>
-    <th>🛠️ Herramientas & Testing</th>
-    <td align="center">
+  <tr style="border: none;">
+    <td style="border: none; vertical-align: middle; padding-right: 20px;"><strong>🛠️ Herramientas & Testing</strong></td>
+    <td style="border: none;" align="center">
       <img src="https://skillicons.dev/icons?i=git" width="40"/> Git
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=postman" width="40"/> Postman
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=vscode" width="40"/> VS Code
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=idea" width="40"/> IntelliJ IDEA
-    </td>
-    <td align="center">
+      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="https://skillicons.dev/icons?i=gradle" width="40"/> Gradle
     </td>
   </tr>
