@@ -19,50 +19,85 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 <table align="center">
   <tr>
     <th>🔤 Lenguajes</th>
-    <th>🎨 Frontend</th>
-    <th>⚙️ Backend</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40"/> Java
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40"/> JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=typescript" width="40"/> TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40"/> Python
+    </td>
   </tr>
   <tr>
+    <th>🎨 Frontend</th>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java<br/><br/>
-      <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript<br/><br/>
-      <img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript<br/><br/>
-      <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
+      <img src="https://skillicons.dev/icons?i=angular" width="40"/> Angular
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="40"/><br/>Angular<br/><br/>
-      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5<br/><br/>
-      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3<br/><br/>
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap<br/><br/>
-      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS
+      <img src="https://skillicons.dev/icons?i=html" width="40"/> HTML5
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js<br/><br/>
-      <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express<br/><br/>
-      <img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>Spring Boot<br/><br/>
-      <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI<br/><br/>
-      <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker
+      <img src="https://skillicons.dev/icons?i=css" width="40"/> CSS3
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/> Bootstrap
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/> Tailwind CSS
     </td>
   </tr>
-</table>
-
-<table align="center">
+  <tr>
+    <th>⚙️ Backend</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/> Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" width="40"/> Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=spring" width="40"/> Spring Boot
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40"/> FastAPI
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker" width="40"/> Docker
+    </td>
+  </tr>
   <tr>
     <th>🗃️ Bases de Datos</th>
-    <th>🛠️ Herramientas & Testing</th>
-  </tr>
-  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL<br/><br/>
-      <img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br/>PostgreSQL<br/><br/>
-      <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"/> MySQL
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git<br/><br/>
-      <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman<br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code<br/><br/>
-      <img src="https://skillicons.dev/icons?i=idea" width="40"/><br/>IntelliJ IDEA<br/><br/>
-      <img src="https://skillicons.dev/icons?i=gradle" width="40"/><br/>Gradle
+      <img src="https://skillicons.dev/icons?i=postgresql" width="40"/> PostgreSQL
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40"/> MongoDB
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+    <th>🛠️ Herramientas & Testing</th>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40"/> Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postman" width="40"/> Postman
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/> VS Code
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=idea" width="40"/> IntelliJ IDEA
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=gradle" width="40"/> Gradle
     </td>
   </tr>
 </table>
