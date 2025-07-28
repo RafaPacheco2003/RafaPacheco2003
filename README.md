@@ -96,15 +96,7 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaPacheco2003&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
----
 
-
-
-## 📈 Actividad de Contribuciones
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaPacheco2003&theme=tokyo-night&hide_border=true" />
-</div>
 
 ---
 
@@ -119,12 +111,4 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=RafaPacheco2003&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  
-  **"Código limpio no es escrito por seguir un conjunto de reglas. Es escrito por programadores que se preocupan profundamente por el código."** - Robert C. Martin
-  
-  ⭐️ From [RafaPacheco2003](https://github.com/RafaPacheco2003)
-</div>
