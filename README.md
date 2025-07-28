@@ -16,30 +16,56 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 
 ## 💻 Stack Tecnológico
 
-### 🔤 Lenguajes de Programación
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" alt="Programming Languages" />
-</div>
+<table align="center">
+  <tr>
+    <th>🔤 Lenguajes</th>
+    <th>🎨 Frontend</th>
+    <th>⚙️ Backend</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40"/><br/>Java<br/><br/>
+      <img src="https://skillicons.dev/icons?i=javascript" width="40"/><br/>JavaScript<br/><br/>
+      <img src="https://skillicons.dev/icons?i=typescript" width="40"/><br/>TypeScript<br/><br/>
+      <img src="https://skillicons.dev/icons?i=python" width="40"/><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="40"/><br/>Angular<br/><br/>
+      <img src="https://skillicons.dev/icons?i=html" width="40"/><br/>HTML5<br/><br/>
+      <img src="https://skillicons.dev/icons?i=css" width="40"/><br/>CSS3<br/><br/>
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/><br/>Bootstrap<br/><br/>
+      <img src="https://skillicons.dev/icons?i=tailwind" width="40"/><br/>Tailwind CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40"/><br/>Node.js<br/><br/>
+      <img src="https://skillicons.dev/icons?i=express" width="40"/><br/>Express<br/><br/>
+      <img src="https://skillicons.dev/icons?i=spring" width="40"/><br/>Spring Boot<br/><br/>
+      <img src="https://skillicons.dev/icons?i=fastapi" width="40"/><br/>FastAPI<br/><br/>
+      <img src="https://skillicons.dev/icons?i=docker" width="40"/><br/>Docker
+    </td>
+  </tr>
+</table>
 
-### 🎨 Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap,tailwind" alt="Frontend Technologies" />
-</div>
-
-### ⚙️ Backend & Infraestructura
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,fastapi,docker" alt="Backend Technologies" />
-</div>
-
-### 🗃️ Bases de Datos
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" alt="Databases" />
-</div>
-
-### 🛠️ Herramientas y Testing
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=git,postman,vscode,idea,gradle,maven" alt="Tools" />
-</div>
+<table align="center">
+  <tr>
+    <th>🗃️ Bases de Datos</th>
+    <th>🛠️ Herramientas & Testing</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40"/><br/>MySQL<br/><br/>
+      <img src="https://skillicons.dev/icons?i=postgresql" width="40"/><br/>PostgreSQL<br/><br/>
+      <img src="https://skillicons.dev/icons?i=mongodb" width="40"/><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" width="40"/><br/>Git<br/><br/>
+      <img src="https://skillicons.dev/icons?i=postman" width="40"/><br/>Postman<br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode" width="40"/><br/>VS Code<br/><br/>
+      <img src="https://skillicons.dev/icons?i=idea" width="40"/><br/>IntelliJ IDEA<br/><br/>
+      <img src="https://skillicons.dev/icons?i=gradle" width="40"/><br/>Gradle
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -56,40 +82,7 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 
 ---
 
-## 🎯 Áreas de Especialización
 
-```javascript
-const rodrigo = {
-    code: ["Java", "JavaScript", "TypeScript", "Python"],
-    architecture: ["REST APIs", "Hexagonal Architecture", "Microservices"],
-    backend: {
-        frameworks: ["Spring Boot", "Node.js", "Express", "FastAPI"],
-        databases: ["MySQL", "PostgreSQL", "MongoDB"],
-        tools: ["Docker", "Maven", "Gradle"]
-    },
-    frontend: {
-        frameworks: ["Angular"],
-        styling: ["CSS3", "Bootstrap", "Tailwind CSS"]
-    },
-    currentFocus: "Building scalable APIs and optimizing performance",
-    funFact: "I love clean code and hexagonal architecture! 🏗️"
-};
-```
-
----
-
-## 🌟 Proyectos Destacados
-
-<div align="center">
-  <a href="https://github.com/RafaPacheco2003/proyecto1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaPacheco2003&repo=proyecto1&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/RafaPacheco2003/proyecto2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=RafaPacheco2003&repo=proyecto2&theme=tokyonight" />
-  </a>
-</div>
-
----
 
 ## 📈 Actividad de Contribuciones
 
