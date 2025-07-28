@@ -96,6 +96,8 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafaPacheco2003&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
+---
+
 
 
 ---
@@ -110,5 +112,3 @@ También tengo experiencia en desarrollo frontend con **Angular**, creando inter
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tu-portfolio.com)
 
 </div>
-
-
